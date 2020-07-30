@@ -1,0 +1,2 @@
+# ararazul-docs-pt-br
+Ararazul é um projeto tem como objetivo a criação de uma nova linguagem de programação, que visa auxiliar no ensino de programação em países de língua portuguesa. pretendemos criar uma linguagem com recursos suficientes para ser utilizada durante o curso inteiro de Bacharelado em Ciências da Computação, além de outros Bacharelados e Engenharias que também abordam o ensino de programação.
